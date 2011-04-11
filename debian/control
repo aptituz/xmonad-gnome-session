@@ -1,0 +1,16 @@
+Source: xmonad-gnome-session
+Section: unknown
+Priority: extra
+Maintainer: Patrick Schoenfeld <schoenfeld@debian.org>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.8.4
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/xmonad-gnome-session.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/xmonad-gnome-session.git;a=summary
+
+Package: xmonad-gnome-session
+Architecture: all
+Depends: xmonad
+Recommends: gdm
+Description: xmonad/gnome session file
+ xmonad/gnome session file for use with desktop managers

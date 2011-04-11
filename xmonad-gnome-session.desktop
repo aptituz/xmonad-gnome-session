@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=GNOME/XMonad
+Encoding=UTF-8
+Exec=xmonad-gnome-session
+TryExec=xmonad-gnome-session
+Type=XSession

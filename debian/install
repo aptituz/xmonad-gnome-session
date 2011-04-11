@@ -1,0 +1,3 @@
+xmonad-gnome-session	usr/bin/
+xmonad-gnome-session.desktop	usr/share/xsessions/
+xmonad-gnome-session.desktop	usr/share/applications/
